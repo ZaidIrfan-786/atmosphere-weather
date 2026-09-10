@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere Weather",
+  "description": "Apple-inspired glassmorphic weather forecasting app featuring live conditions, 24-hour timeline, 5-day past archive, 5-day outlook with range indicators, and detailed atmospheric metrics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
